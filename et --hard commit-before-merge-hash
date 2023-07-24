@@ -1,0 +1,87 @@
+[33m1d8394e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33m1d8394e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{1}: commit: update addSandwich
+[33m687a876[m HEAD@{2}: commit (merge): update
+[33m9406785[m HEAD@{3}: commit: update
+[33m389ee46[m[33m ([m[1;32mdeli[m[33m)[m HEAD@{4}: checkout: moving from deli to main
+[33m389ee46[m[33m ([m[1;32mdeli[m[33m)[m HEAD@{5}: checkout: moving from main to deli
+[33m389ee46[m[33m ([m[1;32mdeli[m[33m)[m HEAD@{6}: checkout: moving from UI to main
+[33m361215e[m[33m ([m[1;32mUI[m[33m)[m HEAD@{7}: checkout: moving from main to UI
+[33m389ee46[m[33m ([m[1;32mdeli[m[33m)[m HEAD@{8}: commit: update
+[33m056b01d[m HEAD@{9}: commit: UI update
+[33m19351db[m HEAD@{10}: commit: new update for classes
+[33mf7f799b[m HEAD@{11}: pull: Fast-forward
+[33mec3159e[m HEAD@{12}: pull: Fast-forward
+[33maa17c05[m HEAD@{13}: pull: Fast-forward
+[33m0f7ea55[m HEAD@{14}: commit: fixed error
+[33m361215e[m[33m ([m[1;32mUI[m[33m)[m HEAD@{15}: merge UI: Fast-forward
+[33mabe8797[m HEAD@{16}: checkout: moving from UI to main
+[33m361215e[m[33m ([m[1;32mUI[m[33m)[m HEAD@{17}: commit: new update
+[33mabe8797[m HEAD@{18}: checkout: moving from main to UI
+[33mabe8797[m HEAD@{19}: merge UI: Fast-forward
+[33m861c829[m HEAD@{20}: checkout: moving from UI to main
+[33mabe8797[m HEAD@{21}: commit: update fixing
+[33mc47dc51[m HEAD@{22}: commit: new update
+[33m861c829[m HEAD@{23}: checkout: moving from main to UI
+[33m861c829[m HEAD@{24}: commit: update
+[33md9fa29d[m HEAD@{25}: pull: Merge made by the 'ort' strategy.
+[33mf433c78[m HEAD@{26}: commit: small update
+[33mfc88005[m HEAD@{27}: commit: update
+[33m60ec289[m HEAD@{28}: commit: update
+[33m5815463[m HEAD@{29}: commit: update
+[33m12c3eb6[m HEAD@{30}: pull: Fast-forward
+[33m1e73224[m HEAD@{31}: commit: add drink flavor
+[33mabbd0e0[m[33m ([m[1;32mInventoryManager[m[33m)[m HEAD@{32}: merge InventoryManager: Fast-forward
+[33mb9434a5[m HEAD@{33}: checkout: moving from InventoryManager to main
+[33mabbd0e0[m[33m ([m[1;32mInventoryManager[m[33m)[m HEAD@{34}: merge main: Merge made by the 'ort' strategy.
+[33m0fcea04[m HEAD@{35}: checkout: moving from main to InventoryManager
+[33mb9434a5[m HEAD@{36}: pull: Merge made by the 'ort' strategy.
+[33m6ceaca3[m HEAD@{37}: checkout: moving from InventoryManager to main
+[33m0fcea04[m HEAD@{38}: commit: fixed some error
+[33mc08fed8[m HEAD@{39}: merge main: Merge made by the 'ort' strategy.
+[33m4aed07b[m HEAD@{40}: checkout: moving from main to InventoryManager
+[33m6ceaca3[m HEAD@{41}: pull: Merge made by the 'ort' strategy.
+[33m880f2e4[m HEAD@{42}: checkout: moving from InventoryManager to main
+[33m4aed07b[m HEAD@{43}: commit: InventoryManager class
+[33med3a225[m HEAD@{44}: checkout: moving from main to InventoryManager
+[33m880f2e4[m HEAD@{45}: checkout: moving from InventoryManager to main
+[33med3a225[m HEAD@{46}: commit (merge): fixed conflict
+[33m43e707c[m HEAD@{47}: checkout: moving from main to InventoryManager
+[33m880f2e4[m HEAD@{48}: pull: Merge made by the 'ort' strategy.
+[33m789ee5f[m HEAD@{49}: checkout: moving from InventoryManager to main
+[33m43e707c[m HEAD@{50}: commit: fixed and add InventoryManager class
+[33m789ee5f[m HEAD@{51}: checkout: moving from main to InventoryManager
+[33m789ee5f[m HEAD@{52}: pull: updating HEAD
+[33m789ee5f[m HEAD@{53}: checkout: moving from InventoryManager to main
+[33m789ee5f[m HEAD@{54}: checkout: moving from main to InventoryManager
+[33m789ee5f[m HEAD@{55}: pull: Merge made by the 'ort' strategy.
+[33m0e08429[m HEAD@{56}: pull: Merge made by the 'ort' strategy.
+[33m8cab93e[m HEAD@{57}: pull: Merge made by the 'ort' strategy.
+[33m8fbf90b[m HEAD@{58}: pull: Merge made by the 'ort' strategy.
+[33m04d4e98[m[33m ([m[1;32mRegularTopping[m[33m)[m HEAD@{59}: merge RegularTopping: Fast-forward
+[33m35a324b[m HEAD@{60}: checkout: moving from RegularTopping to main
+[33m04d4e98[m[33m ([m[1;32mRegularTopping[m[33m)[m HEAD@{61}: commit: RegularTopping class
+[33m35a324b[m HEAD@{62}: checkout: moving from main to RegularTopping
+[33m35a324b[m HEAD@{63}: commit: Otherproducts class, chip class, drink class
+[33m328d9d6[m[33m ([m[1;32mCheese[m[33m)[m HEAD@{64}: merge Cheese: Fast-forward
+[33m5415a5f[m[33m ([m[1;32mMeat[m[33m)[m HEAD@{65}: checkout: moving from Cheese to main
+[33m328d9d6[m[33m ([m[1;32mCheese[m[33m)[m HEAD@{66}: commit: add Cheese class
+[33m5415a5f[m[33m ([m[1;32mMeat[m[33m)[m HEAD@{67}: checkout: moving from main to Cheese
+[33m5415a5f[m[33m ([m[1;32mMeat[m[33m)[m HEAD@{68}: merge Meat: Fast-forward
+[33md38a522[m[33m ([m[1;32mAddItems[m[33m)[m HEAD@{69}: checkout: moving from Meat to main
+[33m5415a5f[m[33m ([m[1;32mMeat[m[33m)[m HEAD@{70}: commit: add Meat class
+[33md38a522[m[33m ([m[1;32mAddItems[m[33m)[m HEAD@{71}: checkout: moving from main to Meat
+[33md38a522[m[33m ([m[1;32mAddItems[m[33m)[m HEAD@{72}: merge AddItems: Fast-forward
+[33m15d0408[m[33m ([m[1;32mTopping[m[33m)[m HEAD@{73}: checkout: moving from AddItems to main
+[33md38a522[m[33m ([m[1;32mAddItems[m[33m)[m HEAD@{74}: commit: addItems interface class
+[33m15d0408[m[33m ([m[1;32mTopping[m[33m)[m HEAD@{75}: checkout: moving from main to AddItems
+[33m15d0408[m[33m ([m[1;32mTopping[m[33m)[m HEAD@{76}: checkout: moving from AddItems to main
+[33m15d0408[m[33m ([m[1;32mTopping[m[33m)[m HEAD@{77}: checkout: moving from main to AddItems
+[33m15d0408[m[33m ([m[1;32mTopping[m[33m)[m HEAD@{78}: merge Topping: Fast-forward
+[33m17eff75[m HEAD@{79}: checkout: moving from Topping to main
+[33m15d0408[m[33m ([m[1;32mTopping[m[33m)[m HEAD@{80}: checkout: moving from main to Topping
+[33m17eff75[m HEAD@{81}: checkout: moving from Topping to main
+[33m15d0408[m[33m ([m[1;32mTopping[m[33m)[m HEAD@{82}: commit: add topping class
+[33m17eff75[m HEAD@{83}: checkout: moving from main to Topping
+[33m17eff75[m HEAD@{84}: pull: Fast-forward
+[33m4d6e5ee[m HEAD@{85}: pull: Fast-forward
+[33m56f5e10[m HEAD@{86}: clone: from https://github.com/gdzierzon/DELIcious-Capstone-Team-3.git

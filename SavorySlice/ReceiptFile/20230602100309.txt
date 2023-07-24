@@ -1,0 +1,7 @@
+Date: 2023-06-02 Friday
+Sandwich:      8"       White toasted bread                $ 7.00 
+                Steak                           $ 2.00 
+                Lettuce                                
+                Mayo                                   
+		7.0
+Total Price: 								$ 9.0

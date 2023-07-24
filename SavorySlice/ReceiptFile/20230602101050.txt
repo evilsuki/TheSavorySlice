@@ -1,0 +1,22 @@
+Date: 2023-06-02 Friday
+Sandwich:     12"       White toasted bread                $ 8.50 
+                Chicken                         $ 3.00 
+                Mozzarella                      $ 2.25 
+                Lettuce                                
+                Onions                                 
+                Pickles                                
+                Mayo                                   
+                Ketchup                                
+                SavorySlice Official                   
+		8.5
+Drink: l									 $3.0
+
+Chips:Miss Vickie's Jalapeno								 $1.5
+
+Chips:Doritos								 $1.5
+
+Chips:Cookies								 $1.5
+
+Chips:Munchos								 $1.5
+
+Total Price: 								$ 22.75
